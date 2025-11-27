@@ -7,16 +7,13 @@ In this paper, a hybrid intelligent optimization method based on multi-objective
 If you found this work useful or interesting for your own research, we would appreciate if you could cite our work.
 
 
+```bibtex
 @article{Fu2025hybrid,
-
-title={Hybrid intelligent multi-objective dynamic optimization based on MOEPSO-GA},
-
-author={Fu, Jun and Du, Linqing and Li, Huan},
-
-journal={IEEE Transactions on Automation Science and Engineering},
-
-year={2025}
-
+  title={Hybrid intelligent multi-objective dynamic optimization based on MOEPSO-GA},
+  author={Fu, Jun and Du, Linqing and Li, Huan},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2025}
 }
+```
 
 *Feel free to leave any questions in the issues of Github or email the author at (lqingdu@163.com).*
